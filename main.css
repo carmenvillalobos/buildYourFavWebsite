@@ -1,0 +1,69 @@
+body{
+    background-color: #FAFAFA;
+    display: flex;
+    margin: auto;
+}
+
+.phoneDisplay {
+    display: flex;
+}
+
+.IGLog-in{
+    padding: 30px;
+    width: 30%;
+    float: right;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    border-style: solid;
+    border-color: #DBDBDB;
+    margin: 30px;
+    background-color: white;
+    font-weight: bold;
+    border-width: 1px;
+    height: 280px;
+}
+
+.IGLog-in input{
+    border-color: #DBDBDB;
+    background-color: #FAFAFA;
+    color: #8E8E8E;
+    padding: 10px;
+    width: 90%;
+    border-width: 1px;
+    border-radius: 3px;
+   
+}
+
+button{
+    width: 100%;
+    background-color: #C0DFFD;
+    border-radius: 3px;
+    color: white;
+    border-color: white;
+    border-width: 0px;
+    padding: 6px;
+}
+p{
+    font-family: Arial;
+    margin: 10px;
+    font-size: 12px;
+    color: #8E8E8E;
+    padding: 7px;
+}
+
+.facebook > p{
+    color: #375085;
+}
+
+.facebook img{
+    display: flex;
+}
+
+.forgotpassword > p{
+    color: #124172;
+    font-size: 9px;
+    font-family: arial;
+}
+
+
